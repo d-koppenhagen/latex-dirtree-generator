@@ -2,7 +2,7 @@
 This is a generator for directory trees in LaTeX documents by procesing all files from a given directory.
 The Script is written in perl and generates an output wich could be included in LaTeX `.tex`-files.
 
-<img src="https://raw.githubusercontent.com/d-koppenhagen/latex-dirtree-generator/master/terminal.svg">
+<img src="./terminal.svg">
 
 ## preparation
 To see a directory in LaTeX documents you need to include the `dirtree` package first:
